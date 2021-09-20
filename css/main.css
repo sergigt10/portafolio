@@ -128,7 +128,8 @@ h4 {
   font-weight: bold; }
 
 img {
-  width: 100%; }
+  width: 100%;
+  image-rendering: -webkit-optimize-contrast; }
 
 #logo {
   width: 180px;
